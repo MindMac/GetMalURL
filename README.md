@@ -20,3 +20,5 @@ Usage
 5. Sign the AndroidTestModified_unsigned.apk to AndroidTestModified.apk
 6. Install and launch AndroidTestModified.apk 
 7. adb logcat -s System.out and you will see the results
+
+![Result](server.png)
