@@ -1,7 +1,8 @@
 GetMalURL
 =============
 
-Show a fast method to get the server's URL from the malicious Xposed plugin reported by [AVL Team](http://blog.avlyun.com/1361.html). [A detailed report](http://www.kanxue.com/bbs/showthread.php?p=1328412#post1328412). 
+Show a fast method to get the server's URL from the malicious Xposed plugin reported by [AVL Team](http://blog.avlyun.com/1361.html). 
+For a detailed report, refer to [http://www.kanxue.com/bbs/showthread.php?p=1328412#post1328412](http://www.kanxue.com/bbs/showthread.php?p=1328412#post1328412). 
 
 
 Content
